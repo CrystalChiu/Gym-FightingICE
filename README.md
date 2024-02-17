@@ -1,5 +1,7 @@
 # gym-fightingice
 
+**Deprecated:** This project is no longer supported by TeamFightingICE.
+
 Official gym API for game FightingICE for ver. 4.40 or later.
 
 
